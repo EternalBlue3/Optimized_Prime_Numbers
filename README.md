@@ -6,6 +6,8 @@ Run "python3 setup.py build_ext --inplace" in the command prompt to cythonize yo
 
 Benchmarks (generate the first 20k primes):
 
-Vanilla Python (v1): 4.20827054977417 seconds\n
-Cython (v2): 0.668067455291748 seconds\n
+Vanilla Python (v1): 4.20827054977417 seconds
+
+Cython (v2): 0.668067455291748 seconds
+
 Cython with Cache (v3): 0.5617508888244629 seconds
