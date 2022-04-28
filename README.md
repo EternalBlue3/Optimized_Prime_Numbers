@@ -10,4 +10,4 @@ Benchmarks (generate the first 20k primes):
 
     Cython (v2): 0.668067455291748 seconds
 
-    Cython with Cache (v3): 0.5617508888244629 seconds
+    Cython with Cache (v3): 0.5601084232330322 seconds
